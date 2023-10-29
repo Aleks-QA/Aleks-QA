@@ -3,7 +3,7 @@
 
 <h1 align="center">I'm <a href="https://vk.com/mr_san_sanych" target="_blank">Aleksandr</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">I do automated testing UI and API</h3>
+<h2 align="center">I do automated software testing.</h2>
 
 
 
